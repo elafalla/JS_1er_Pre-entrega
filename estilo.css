@@ -17,6 +17,7 @@ h1 {
   text-transform: uppercase;
   text-decoration: underline;
   margin: 0;
+  color: #FFC107;
 }
 
 h2 {
@@ -26,6 +27,7 @@ h2 {
   padding-bottom: 0px;
   text-transform: uppercase;
   font-weight: bold;
+  color: black;
 }
 
 h3 {
@@ -39,6 +41,7 @@ h4 {
   font-style: oblique;
   font-weight: bold;
   padding: 20px 0;
+  color: #FFC107;
 }
 
 p {
