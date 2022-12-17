@@ -42,10 +42,22 @@ h4 {
   font-weight: bold;
   padding: 20px 0;
   color: #FFC107;
+  margin-top: 0;
 }
 
 p {
   font-size: 1.8rem;
   padding: 5px 0;
   margin: 0;
+}
+
+button {
+  margin: 3rem 4rem;
+  padding: 1rem;
+  border: 0px;
+  width: 15rem;
+  border-radius: 5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+
 }
